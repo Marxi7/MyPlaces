@@ -38,6 +38,10 @@ Once you submit the form to create your place, a pop up will be added dynamicall
 <img width="1500" alt="mymap" src="myplaces/static/image-demo/mymap.png" alt="MyMap">
 
 
+Creating a new place:
+<img width="1500" alt="mymap" src="myplaces/static/image-demo/mymap-newplace.png" alt="newplace">
+
+
 #### 2. Myplaces Page
 
 On this page, you will find all of the places you created. You can search a place by category with the select menu called "Filter By Category", or by name with the "Search by Name" bar search. As mentionned above, you can see the details about any places by clicking on "See Details". You can edit any place by clicking on "Edit" or delete any place by clicking on "Delete". Everything is interactive and reactive, so everytime you will edit a place, or delete it, the dom will update and no reload will occur.
