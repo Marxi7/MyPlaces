@@ -58,10 +58,7 @@ The first one is our djangoproject called capstone as well:
 ```python
 capstone
  ┣ __pycache__
- ┃ ┣ __init__.cpython-310.pyc
- ┃ ┣ settings.cpython-310.pyc
- ┃ ┣ urls.cpython-310.pyc
- ┃ ┗ wsgi.cpython-310.pyc
+ ┃ 
  ┣ __init__.py
  ┣ asgi.py
  ┣ settings.py
@@ -81,19 +78,10 @@ The second one is our app called myplaces:
 ```python
  myplaces
  ┣ __pycache__
- ┃ ┣ __init__.cpython-310.pyc
- ┃ ┣ admin.cpython-310.pyc
- ┃ ┣ apps.cpython-310.pyc
- ┃ ┣ models.cpython-310.pyc
- ┃ ┣ serializers.cpython-310.pyc
- ┃ ┣ urls.cpython-310.pyc
- ┃ ┗ views.cpython-310.pyc
+ ┃ 
  ┣ migrations
  ┃ ┣ __pycache__
- ┃ ┃ ┣ 0001_initial.cpython-310.pyc
- ┃ ┃ ┗ __init__.cpython-310.pyc
- ┃ ┣ 0001_initial.py
- ┃ ┗ __init__.py
+ ┃ 
  ┣ static
  ┃ ┣ myplaces
  ┃ ┃ ┣ logos
